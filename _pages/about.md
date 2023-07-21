@@ -28,10 +28,10 @@ Email: [chencn2018@163.com](mailto:chencn2018@163.com)
 
 # Publications
 
-|Publication Date|Paper Title|Conference/Journal|Summary|
+|Publication Date|Paper Title|Conference / Journal|Summary|
 |  ----  | ----  | ----  | ----  |
-|July 2023|Hierarchical Curriculum Learning for No-reference Image Quality Assessment|IJCV|We proposed a hierarchical curriculum learning IQA algorithm. We defined the image restoration task, the IQA task on a synthetic distortion dataset, and the IQA task on a real distortion dataset as a learning process from easy to difficult. Mimicking human learning behavior, we trained a level-wise IQA network from generalized to specialized.|
-|September 2022|Teacher-Guided Learning for Blind Image Quality Assessment| ACCV 2023 | We pre-trained a teacher network using the image restoration task to learn semantic and distortion information strongly related to IQA. Then, this teacher network guided the student network to fine-tune on the target task. It achieved the state-of-the-art level at that time in single dataset, small sample experiments, and cross-dataset validation.|
+|July 2023|Hierarchical Curriculum Learning for No-reference Image Quality Assessment|IJCV|We proposed a hierarchical curriculum learning IQA algorithm<br> We defined the image restoration task, the IQA task on a synthetic distortion dataset, and the IQA task on a real distortion dataset as a learning process from easy to difficult<br> Mimicking human learning behavior, we trained a level-wise IQA network from generalized to specialized.|
+|September 2022|Teacher-Guided Learning for Blind Image Quality Assessment| ACCV 2023 | We pre-trained a teacher network using the image restoration task to learn semantic and distortion information strongly related to IQA<br> Then, this teacher network guided the student network to fine-tune on the target task<br> It achieved the state-of-the-art level at that time in single dataset, small sample experiments, and cross-dataset validation.|
 
 Please refer to [Publications](/publications/) for details.
 # Awards
@@ -39,7 +39,7 @@ Please refer to [Publications](/publications/) for details.
 |Date|Award|
 |  ----  | ----  |
 |June 2023|Excellent Student, University of Chinese Academy of Sciences|
-|June 2022|Outstanding Graduate, Beijing City|
+|June 2022|Outstanding Graduate, Beijing|
 |June 2022|Outstanding Bachelor's Thesis, Beijing Jiaotong University|
 |April 2021|Excellent Student Leader, Beijing Jiaotong University|
 |December 2020|Vinuo Era Scholarship, First-Class Academic Scholarship, Third-Class Social Work Scholarship, Excellent Student, Beijing Jiaotong University|

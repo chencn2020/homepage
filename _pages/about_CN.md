@@ -28,8 +28,8 @@ author_profile: true
 
 |发布时间|论文标题|发表会议/期刊|简介|
 |  ----  | ----  | ----  | ----  |
-|2023年7月|Hierarchical Curriculum Learning for No-reference Image Quality Assessment|IJCV|提出了一个分层课程学习的IQA算法。我们将图像修复任务、合成失真数据集上的IQA任务和真实失真数据集上的IQA任务定义为从简单到困难的学习过程。模仿人类的学习行为，从泛化到专一，逐级训练一个层级IQA网络。|
-|2022年9月|Teacher-Guided Learning for Blind Image Quality Assessment| ACCV 2023 | 使用图像修复任务预训练教师网络，使其学习到与IQA强相关的语义和失真信息。然后利用这个教师网络指导学生网络在目标任务上微调。在单一数据集、小样本实验、交叉数据集验证中，取得了当时SOTA的水平。|
+|2023年7月|Hierarchical Curriculum Learning for No-reference Image Quality Assessment|IJCV|提出了一个分层课程学习的IQA算法<br>我们将图像修复任务、合成失真数据集上的IQA任务和真实失真数据集上的IQA任务定义为从简单到困难的学习过程<br>模仿人类的学习行为，从泛化到专一，逐级训练一个层级IQA网络|
+|2022年9月|Teacher-Guided Learning for Blind Image Quality Assessment| ACCV 2023 | 使用图像修复任务预训练教师网络，使其学习到与IQA强相关的语义和失真信息<br>然后利用这个教师网络指导学生网络在目标任务上微调<br>在单一数据集、小样本实验、交叉数据集验证中，取得了当时SOTA的水平|
 
 详情可见[Publications](/publications/)
 # 获奖经历
