@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's degree at the National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences.
+I am currently pursuing a Master's degree at the National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (NLPR, CASIA).
+
+Before that, I received my Bachelor's Degree from Beijing Jiaotong University (BJTU).
 
 My research interests include:
 - Image Processing
@@ -23,15 +25,18 @@ Email: [chencn2018@163.com](mailto:chencn2018@163.com)
 - **Master**: Institute of Automation, Chinese Academy of Sciences. (2022.9-Present)
 
 # News
+- 7/2023, our work "Hierarchical Curriculum Learning for No-reference Image Quality Assessment" was accepted by International Journal of Computer Vision (IJCV).
 
 - 9/2022, our work "Teacher-Guided Learning for Blind Image Quality Assessment" was officially accepted by The 16th Asian Conference on Computer Vision ([ACCV 2022](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html)).
 
 # Publications
 
-|Publication Date|Paper Title|Conference / Journal|Summary|
+- **Chen Zewen**, Wang Jun, Li Bing, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
+
+<!-- |Publication Date|Paper Title|Conference / Journal|Summary|
 |  ----  | ----  | ----  | ----  |
 |July 2023|Hierarchical Curriculum Learning for No-reference Image Quality Assessment|IJCV|We proposed a hierarchical curriculum learning IQA algorithm<br> We defined the image restoration task, the IQA task on a synthetic distortion dataset, and the IQA task on a real distortion dataset as a learning process from easy to difficult<br> Mimicking human learning behavior, we trained a level-wise IQA network from generalized to specialized.|
-|September 2022|Teacher-Guided Learning for Blind Image Quality Assessment| ACCV 2023 | We pre-trained a teacher network using the image restoration task to learn semantic and distortion information strongly related to IQA<br> Then, this teacher network guided the student network to fine-tune on the target task<br> It achieved the state-of-the-art level at that time in single dataset, small sample experiments, and cross-dataset validation.|
+|September 2022|Teacher-Guided Learning for Blind Image Quality Assessment| ACCV 2023 | We pre-trained a teacher network using the image restoration task to learn semantic and distortion information strongly related to IQA<br> Then, this teacher network guided the student network to fine-tune on the target task<br> It achieved the state-of-the-art level at that time in single dataset, small sample experiments, and cross-dataset validation.| -->
 
 Please refer to [Publications](/publications/) for details.
 # Awards
