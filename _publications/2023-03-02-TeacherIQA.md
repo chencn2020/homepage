@@ -9,6 +9,7 @@ paperurl: 'https://openaccess.thecvf.com/content/ACCV2022/papers/Chen_Teacher-Gu
 citation: '<b>Chen Zewen</b>, Wang Jun, Li Bing, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.'
 codeurl: 'https://github.com/chencn2020/TeacherIQA'
 paperdate: 09/2022
+paperYear: 2022
 ---
 
 # Abstract 
