@@ -21,7 +21,7 @@ author_profile: true
 - 本科：北京交通大学（2018.9-2022.6）
 
 # 要闻
-- 2022年9月，工作"Hierarchical Curriculum Learning for No-reference Image Quality Assessment" 正式被 International Journal of Computer Vision ([IJCV](https://link.springer.com/article/10.1007/s11263-023-01851-5))接收.
+- 2023年7月，工作"Hierarchical Curriculum Learning for No-reference Image Quality Assessment" 正式被 International Journal of Computer Vision ([IJCV](https://link.springer.com/article/10.1007/s11263-023-01851-5))接收.
 
 - 2022年9月，工作"Teacher-Guided Learning for Blind Image Quality Assessment"正式被The 16th Asian Conference on Computer Vision ([ACCV 2022](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html))接收.
 
