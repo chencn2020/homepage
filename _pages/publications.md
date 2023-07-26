@@ -18,7 +18,7 @@ You can also find my full paper list on <u><a href="https://scholar.google.com/c
   {% assign paperYear = post.paperYear %}
 
   {% if paperYear != lastYear %}
-    <h1 style="font-size: huge;"><b>{{paperYear}}</b></h1>
+    {% include year.html %}
     {% assign lastYear = paperYear %}
   {% endif %}
 
