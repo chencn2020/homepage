@@ -10,7 +10,7 @@ citation: '<b>Chen Zewen</b>, Wang Jun, Li Bing, et al. Teacher-Guided Learning 
 codeurl: 'https://github.com/chencn2020/TeacherIQA'
 paperdate: 09/2022
 paperYear: 2022
-framework: 'https://chencn2020.github.io/images/paper/teacherIQA.png'
+framework: 'https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-031-26313-2_13/MediaObjects/544766_1_En_13_Fig2_HTML.png?as=webp'
 ---
 
 # Abstract 
