@@ -17,17 +17,23 @@
 {% assign paperurl = post.paperurl %}
 {% assign codeurl = post.codeurl %}
 {% assign paperdate = post.paperdate %}
+{% assign framework = post.framework %}
 
-
+<table style="border-collapse: separate; border: none;">
+  <tbody>
     <tr style="border-collapse: separate; border-spacing:30em;">
-      <td style="border-collapse: collapse; border: none; width: 50%;"><img src="https://chencn2020.github.io/images/paper/teacherIQA.png" style="display: block; width: 100%; height: 100%"></td>
+      <td style="border-collapse: collapse; border: none; width: 50%;"> <img src="{{framework}}"
+          style="display: block; width: 100%;"></td>
       <td style="border-collapse: collapse; border: none;">
         <b>{{title}}</b> <br> {{citation}} <br>
-        <i>{{venue}}</i> <br> 
-<span><a
-            href="{{paperurl}}">Paper</a></span>   <span><a
-            href="{{codeurl}}">Code</a></span>
-            <br> Date: {{paperdate}}
+        <i>{{venue}}</i> <br>
+        <span><a href="{{paperurl}}">Paper</a></span>  
+        {% if post.codeurl %}
+        <span><a href="{{codeurl}}">Code</a></span>
+        {% endif %}
+
+        <br> Date: {{paperdate}}
       </td>
     </tr>
-    
+  </tbody>
+</table>

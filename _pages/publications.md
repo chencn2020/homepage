@@ -10,10 +10,11 @@ You can also find my full paper list on <u><a href="https://scholar.google.com/c
 
 {% include base_path %}
 
-<table style="border-collapse: separate; border: none;">
-<tbody>
+
 {% assign lastYear = '' %}
+
 {% for post in site.publications reversed %}
+
   {% assign paperYear = post.paperYear %}
 
   {% if paperYear != lastYear %}
@@ -22,6 +23,5 @@ You can also find my full paper list on <u><a href="https://scholar.google.com/c
   {% endif %}
 
   {% include archive-single.html %}
+
 {% endfor %}
-</tbody>
-</table>
