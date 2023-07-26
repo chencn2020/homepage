@@ -17,19 +17,17 @@ author_profile: true
 邮箱：[chencn2018@163.com](mailto:chencn2018@163.com)
 # 教育经历
 
-- 本科：北京交通大学（2018.9-2022.6）
 - 硕士研究生：中国科学院大学自动化研究所（2022.9-至今）
+- 本科：北京交通大学（2018.9-2022.6）
 
 # 要闻
+- 2022年9月，工作"Hierarchical Curriculum Learning for No-reference Image Quality Assessment" 正式被 International Journal of Computer Vision ([IJCV](https://link.springer.com/article/10.1007/s11263-023-01851-5))接收.
 
-- 2022年9月，工作《Teacher-Guided Learning for Blind Image Quality Assessment》正式被The 16th Asian Conference on Computer Vision ([ACCV 2022](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html))接收.
+- 2022年9月，工作"Teacher-Guided Learning for Blind Image Quality Assessment"正式被The 16th Asian Conference on Computer Vision ([ACCV 2022](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html))接收.
 
 # 学术成果
 
-|发布时间|论文标题|发表会议/期刊|简介|
-|  ----  | ----  | ----  | ----  |
-|2023年7月|Hierarchical Curriculum Learning for No-reference Image Quality Assessment|IJCV|提出了一个分层课程学习的IQA算法<br>我们将图像修复任务、合成失真数据集上的IQA任务和真实失真数据集上的IQA任务定义为从简单到困难的学习过程<br>模仿人类的学习行为，从泛化到专一，逐级训练一个层级IQA网络|
-|2022年9月|Teacher-Guided Learning for Blind Image Quality Assessment| ACCV 2023 | 使用图像修复任务预训练教师网络，使其学习到与IQA强相关的语义和失真信息<br>然后利用这个教师网络指导学生网络在目标任务上微调<br>在单一数据集、小样本实验、交叉数据集验证中，取得了当时SOTA的水平|
+- **Chen Zewen**, Wang Jun, Li Bing, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
 
 详情可见[Publications](/publications/)
 # 获奖经历
