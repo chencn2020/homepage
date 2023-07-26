@@ -1,5 +1,5 @@
 {% include base_path %}
-<!-- publications主页 -->
+
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
@@ -11,10 +11,8 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-<tbody>
-<tr style="border-collapse: separate; border-spacing:30em;"><td style="border-collapse: collapse; border: none;"> <img src="https://bryanyzhu.github.io/images/lgtm.png" width="800"></td><td style="border-collapse: collapse; border: none;"> <b>Tailoring Instructions to Student's Learning Levels Boosts Knowledge Distillation</b> <br> Yuxin Ren, Zihan Zhong, Xingjian Shi, <b>Yi Zhu</b>, Chun Yuan, Mu Li <br> <i>Association for Computational Linguistics (ACL) 2023</i> <br> <span><a href="https://arxiv.org/abs/2305.09651">arxiv</a></span>   <span><a href="https://github.com/twinkle0331/LGTM">code</a></span></td></tr>
-</tbody>
-<!-- <div class="{{ include.type | default: "list" }}__item">
+
+<div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -43,8 +41,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <b>{{ post.venue }}</b></p>
-          <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
+          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -64,4 +61,4 @@
     {% endif %}
 
   </article>
-</div> -->
+</div>
