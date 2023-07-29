@@ -31,6 +31,8 @@ Email: [chencn2018@163.com](mailto:chencn2018@163.com)
 
 # Publications
 
+- Wang J, **Chen Z**, Yuan C, et al. Hierarchical Curriculum Learning for No-Reference Image Quality Assessment[J]. International Journal of Computer Vision, 2023: 1-20.
+
 - **Chen Zewen**, Wang Jun, Li Bing, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
 
 <!-- |Publication Date|Paper Title|Conference / Journal|Summary|

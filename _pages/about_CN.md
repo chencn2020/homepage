@@ -27,6 +27,8 @@ author_profile: true
 
 # 学术成果
 
+- Wang J, **Chen Z**, Yuan C, et al. Hierarchical Curriculum Learning for No-Reference Image Quality Assessment[J]. International Journal of Computer Vision, 2023: 1-20.
+
 - **Chen Zewen**, Wang Jun, Li Bing, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
 
 详情可见[Publications](/publications/)
