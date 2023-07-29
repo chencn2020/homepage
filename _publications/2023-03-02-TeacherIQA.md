@@ -6,7 +6,7 @@ excerpt: 'The performance of deep learning models for blind image quality assess
 date: 2022-03-02
 venue: 'The 16th Asian Conference on Computer Vision (ACCV 2022)'
 paperurl: 'https://openaccess.thecvf.com/content/ACCV2022/papers/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.pdf'
-citation: '<b>Chen Zewen</b>, Wang Jun, Li Bing, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.'
+citation: '<b>Chen Z</b>, Wang J, Li B, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.'
 codeurl: 'https://github.com/chencn2020/TeacherIQA'
 paperdate: 09/2022
 paperYear: 2022
