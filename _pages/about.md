@@ -27,13 +27,13 @@ Email: [chencn2018@163.com](mailto:chencn2018@163.com)
 # News
 - 07/2023, our work "Hierarchical Curriculum Learning for No-reference Image Quality Assessment" was accepted by International Journal of Computer Vision ([IJCV](https://link.springer.com/article/10.1007/s11263-023-01851-5)).
 
-- 09/2022, our work "Teacher-Guided Learning for Blind Image Quality Assessment" was officially accepted by The 16th Asian Conference on Computer Vision ([ACCV 2022](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html)).
+- 09/2022, our work "Teacher-Guided Learning for Blind Image Quality Assessment" was accepted by The 16th Asian Conference on Computer Vision ([ACCV 2022](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html)).
 
 # Publications
 
-- Wang J, **Chen Z**, Yuan C, et al. Hierarchical Curriculum Learning for No-Reference Image Quality Assessment[J]. International Journal of Computer Vision, 2023: 1-20.
+- Wang J, **Chen Z**, Yuan C, et al. Hierarchical Curriculum Learning for No-Reference Image Quality Assessment[J]. International Journal of Computer Vision, 2023: 1-20. **(Co-first author)**
 
-- **Chen Zewen**, Wang Jun, Li Bing, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
+- **Chen Z**, Wang J, Li B, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
 
 <!-- |Publication Date|Paper Title|Conference / Journal|Summary|
 |  ----  | ----  | ----  | ----  |

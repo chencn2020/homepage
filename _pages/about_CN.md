@@ -8,6 +8,8 @@ author_profile: true
 
 我目前在中国科学院自动化所模式识别国家重点实验室攻读硕士学位。
 
+在此之前，我在北京交通大学获得学士学位。
+
 兴趣研究方向有：
 - 图像处理(Image Process)
 - 图像处理系统(Image Signal Process, ISP)
@@ -27,9 +29,9 @@ author_profile: true
 
 # 学术成果
 
-- Wang J, **Chen Z**, Yuan C, et al. Hierarchical Curriculum Learning for No-Reference Image Quality Assessment[J]. International Journal of Computer Vision, 2023: 1-20.
+- Wang J, **Chen Z**, Yuan C, et al. Hierarchical Curriculum Learning for No-Reference Image Quality Assessment[J]. International Journal of Computer Vision, 2023: 1-20. (共同一作)
 
-- **Chen Zewen**, Wang Jun, Li Bing, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
+- **Chen Z**, Wang J, Li B, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
 
 详情可见[Publications](/publications/)
 # 获奖经历
