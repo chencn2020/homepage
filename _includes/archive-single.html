@@ -19,6 +19,7 @@
 {% assign paperdate = post.paperdate %}
 {% assign framework = post.framework %}
 {% assign arxiv = post.arxiv %}
+{% assign fast_read = post.fast_read %}
 
 <table style="border-collapse: separate; border: none;">
   <tbody>
@@ -29,7 +30,7 @@
         <div style="margin-bottom: 5px;"><b>{{title}}</b></div>
         <div style="margin-bottom: 5px;">{{citation}} </div>
         <i>{{venue}}</i> <br>
-        
+
         <span><a href="{{paperurl}}" target="_blank">Paper</a> &nbsp;</span>
 
         {% if post.codeurl %}
@@ -43,5 +44,9 @@
         <br> Date: {{paperdate}}
       </td>
     </tr>
+    <tr style=" border-spacing:30em;">
+      <td style="border: none; border-bottom: 2px dashed rgba(201, 201, 201, 0.904);"  colspan="2"> <b>Fast Read:  &nbsp;</b>{{fast_read}}</td>
+    </tr>
+
   </tbody>
 </table>

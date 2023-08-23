@@ -11,6 +11,7 @@ codeurl: 'https://github.com/chencn2020/TeacherIQA'
 paperdate: 09/2022
 paperYear: 2022
 framework: 'https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-031-26313-2_13/MediaObjects/544766_1_En_13_Fig2_HTML.png?as=webp'
+fast_read: 'The method utilizes self-supervised learning to learn a priori knowledge about image quality by pre-training on a large number of unlabeled high-definition and distorted image pairs, and then migrates the learned knowledge to an image quality assessment dataset for fine-tuning, which effectively mitigates the problem that the insufficient training dataset for the image quality assessment task limits the performance of the model due to the high cost of labeling image quality scores.'
 ---
 
 # Abstract 
