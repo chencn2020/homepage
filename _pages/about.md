@@ -63,7 +63,5 @@ Please refer to [Publications](/publications/) for details.
 
 [中文](/about_CN/)
 
-<a href="https://info.flagcounter.com/Uf75"><img src="https://s01.flagcounter.com/count2/Uf75/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_Visitor+statistics/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/ew9G"><img src="https://s11.flagcounter.com/count2/ew9G/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_uv">本站总访问量<span id="busuanzi_value_site_uv"></span>次</span>
