@@ -62,3 +62,5 @@ Please refer to [Publications](/publications/) for details.
 |09/2020-06/2021|Automatic Humidifier Based on Wireless Communication Technology and Microcontroller|1.[**Beijing** Innovation and Entrepreneurship Training Program for College Students](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_Humidifier/2021_Humidifier_Certificate.pdf)<br>|
 
 [中文](/about_CN/)
+
+<a href="https://info.flagcounter.com/Uf75"><img src="https://s01.flagcounter.com/count2/Uf75/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_Visitor+statistics/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
