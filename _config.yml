@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zewen Chen"
-  avatar           : "resume/me.jpg"
+  avatar           : "/images/resume/me.jpg"
   bio              : "A graduate student at the Institute of Automation, Chinese Academy of Sciences."
   location         : "Beijing, China"
   employer         :
