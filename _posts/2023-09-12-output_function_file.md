@@ -1,7 +1,7 @@
 ---
 title: '输出函数所在文件'
 date: 2023-09-12
-permalink: /posts/2023/09/output_function_file/
+permalink: /toolkits/output_function_file
 tags:
   - Code Repository
 ---

@@ -31,7 +31,9 @@
         <div style="margin-bottom: 5px;">{{citation}} </div>
         <i>{{venue}}</i> <br>
 
+        {% if post.paperurl %}
         <span><a href="{{paperurl}}" target="_blank">Paper</a> &nbsp;</span>
+        {% endif %}
 
         {% if post.codeurl %}
         <span><a href="{{codeurl}}" target="_blank">Code</a> &nbsp;</span>
@@ -45,7 +47,7 @@
       </td>
     </tr>
     <tr style=" border-spacing:30em;">
-      <td style="border: none; border-bottom: 2px dashed rgba(201, 201, 201, 0.904);"  colspan="2"> <b>Fast Read:  &nbsp;</b>{{fast_read}}</td>
+      <td style="border: none; border-bottom: 2px dashed rgba(201, 201, 201, 0.904);"  colspan="2"> <details><summary><b>Quick Read (Click Me)</b></summary>{{fast_read}}</details></td>
     </tr>
 
   </tbody>

@@ -1,7 +1,7 @@
 ---
 title: '爬取顶会paper list'
 date: 2023-08-21
-permalink: /posts/2023/08/paper_list_extractor/
+permalink: /toolkits/paper_list_extractor
 tags:
   - Code Repository
 ---

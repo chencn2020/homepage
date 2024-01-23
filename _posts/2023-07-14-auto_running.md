@@ -1,7 +1,7 @@
 ---
 title: '服务器自动化运行指令'
 date: 2023-07-14
-permalink: /posts/2023/07/auto_running/
+permalink: /toolkits/auto_running
 tags:
   - DL
   - Code Repository
