@@ -23,13 +23,13 @@
 
 <table style="border-collapse: separate; border: none;">
   <tbody>
+    <td style="border-collapse: collapse; border: none; width: 40%;"> <img src="{{framework}}"
+      style="display: block; width: 100%;"></td>
     <tr style="border-collapse: separate; border-spacing:30em;">
-      <td style="border-collapse: collapse; border: none; width: 40%;"> <img src="{{framework}}"
-          style="display: block; width: 100%;"></td>
       <td style="border-collapse: collapse; border: none;">
-        <div style="margin-bottom: 5px;"><b>{{title}}</b></div>
+        <div style="margin-bottom: 5px;"><b>{{title}}</b><br></div>
         <div style="margin-bottom: 5px;">{{citation}} </div>
-        <i>{{venue}}</i> <br>
+        <i><b>Publisher:</b> {{venue}}</i> <br>
 
         {% if post.paperurl %}
         <span><a href="{{paperurl}}" target="_blank">Paper</a> &nbsp;</span>

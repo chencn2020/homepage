@@ -39,3 +39,32 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+table { 
+    margin-bottom: 1em;
+    width: 100%;
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: 0.9em;
+    border-collapse: collapse;
+    border: 1px solid #bdc1c4
+}
+
+.sidebar .author__name {
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: 0.95em
+}
+
+.sidebar p,.sidebar li {
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-size: 0.9em;
+    line-height: 1.5
+}
+
+.masthead__menu-item {
+    font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    display: block;
+    list-style-type: none;
+    white-space: nowrap;
+    font-size: 1.2em;
+    line-height: 1.5
+}
