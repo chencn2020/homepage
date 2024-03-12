@@ -24,11 +24,11 @@
 <table style="border-collapse: separate; border: none;">
   <tbody>
     <td style="border-collapse: collapse; border: none; width: 40%;"> <img src="{{framework}}"
-      style="display: block; width: 100%;"></td>
+        style="display: block; width: 100%;"></td>
     <tr style="border-collapse: separate; border-spacing:30em;">
       <td style="border-collapse: collapse; border: none;">
-        <div style="margin-bottom: 5px;"><b>{{title}}</b><br></div>
-        <div style="margin-bottom: 5px;">{{citation}} </div>
+        <div style="margin-bottom: 5px; font-size:1.5em"><b>{{title}}</b><br></div>
+        <div style="margin-bottom: 5px; color: rgba(78, 75, 75, 0.676);">{{citation}} </div>
         <i><b>Publisher:</b> {{venue}}</i> <br>
 
         {% if post.paperurl %}
@@ -43,11 +43,16 @@
         <span><a href="{{arxiv}}" target="_blank">Arxiv</a> &nbsp;</span>
         {% endif %}
 
-        <br> Date: {{paperdate}}
+        <br> 
+        <div style="margin-top: 5px;">Date: {{paperdate}}</div>
       </td>
     </tr>
     <tr style=" border-spacing:30em;">
-      <td style="border: none; border-bottom: 2px dashed rgba(201, 201, 201, 0.904);"  colspan="2"> <details><summary><b>Quick Read (Click Me)</b></summary>{{fast_read}}</details></td>
+      <td style="border: none; border-bottom: 2px dashed rgba(201, 201, 201, 0.904);" colspan="2">
+        <details>
+          <summary><b>Quick Read (Click Me)</b></summary>{{fast_read}}
+        </details>
+      </td>
     </tr>
 
   </tbody>

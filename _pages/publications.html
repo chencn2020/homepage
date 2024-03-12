@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-You can also find my full paper list on <u><a href="https://scholar.google.com/citations?user=ozllxV4AAAAJ">my Google Scholar profile</a>.</u>
+<blockquote>
+  You can also find my full paper list on <u><a href="https://scholar.google.com/citations?user=ozllxV4AAAAJ">my Google
+      Scholar profile</a>.</u>
+</blockquote>
 
 {% include base_path %}
 
@@ -15,13 +17,13 @@ You can also find my full paper list on <u><a href="https://scholar.google.com/c
 
 {% for post in site.publications reversed %}
 
-  {% assign paperYear = post.paperYear %}
+{% assign paperYear = post.paperYear %}
 
-  {% if paperYear != lastYear %}
-    {% include year.html %}
-    {% assign lastYear = paperYear %}
-  {% endif %}
+{% if paperYear != lastYear %}
+{% include year.html %}
+{% assign lastYear = paperYear %}
+{% endif %}
 
-  {% include archive-single.html %}
+{% include archive-single.html %}
 
 {% endfor %}
