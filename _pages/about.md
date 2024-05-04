@@ -35,6 +35,10 @@ Email: [chenzewen2022@ia.ac.cn](mailto:chenzewen2022@ia.ac.cn)
 
 # Publications
 
+- **Chen Z**, Qin H, Wang J, et al. PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts[J]. arXiv preprint arXiv:2403.04993, 2024.
+
+- **Chen Z**, Wang J, Li B, et al. GMC-IQA: Exploiting Global-correlation and Mean-opinion Consistency for No-reference Image Quality Assessment[J]. arXiv preprint arXiv:2401.10511, 2024.
+
 - Wang J, **Chen Z**, Yuan C, et al. Hierarchical Curriculum Learning for No-Reference Image Quality Assessment[J]. International Journal of Computer Vision, 2023: 1-20. **(Co-first author)**
 
 - **Chen Z**, Wang J, Li B, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
@@ -47,8 +51,8 @@ Please refer to [Publications](/publications/) for details.
 
 |Duration|Project Name|Achievements|
 |  ----  | ----  | ----  |
-|06/2021-Present|AI-Based Black Box ISP Hyperparameter Optimization|1.[Published a paper in ACCV (CCF-C) academic conference](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html)<br>2.[Published a paper in IJCV (CCF-A)](https://link.springer.com/article/10.1007/s11263-023-01851-5)|
-|09/2020-06/2021|Deep Learning-Based COVID-19 Lung Infection Image Segmentation|1.[**National** Innovation and Entrepreneurship Training Program for College Students](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_Certificate.pdf)<br>2.[Software Copyright](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_Software_Copyright.pdf)<br>3.[First Prize in Beijing Jiaotong University "Challenge Cup" Academic and Technological Works Contest](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_BJTU_Certificate.pdf)<br>4.[Published a paper at TCE (CCF-B) academic conference](https://ieeexplore.ieee.org/abstract/document/9882382)|
+|06/2021-Present|AI-Based Black Box ISP Hyperparameter Optimization|1.[Published a paper in ACCV (CCF-C)](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html)<br>2.[Published a paper in IJCV (CCF-A)](https://link.springer.com/article/10.1007/s11263-023-01851-5)|
+|09/2020-06/2021|Deep Learning-Based COVID-19 Lung Infection Image Segmentation|1.[**National** Innovation and Entrepreneurship Training Program for College Students](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_Certificate.pdf)<br>2.[Software Copyright](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_Software_Copyright.pdf)<br>3.[First Prize in Beijing Jiaotong University "Challenge Cup" Academic and Technological Works Contest](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_BJTU_Certificate.pdf)<br>4.[Published a paper at TCE (CCF-B)](https://ieeexplore.ieee.org/abstract/document/9882382)|
 |09/2020-06/2021|Automatic Humidifier Based on Wireless Communication Technology and Microcontroller|1.[**Beijing** Innovation and Entrepreneurship Training Program for College Students](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_Humidifier/2021_Humidifier_Certificate.pdf)<br>|
 
 

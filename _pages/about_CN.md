@@ -32,6 +32,10 @@ author_profile: true
 
 # 学术成果
 
+- **Chen Z**, Qin H, Wang J, et al. PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts[J]. arXiv preprint arXiv:2403.04993, 2024.
+
+- **Chen Z**, Wang J, Li B, et al. GMC-IQA: Exploiting Global-correlation and Mean-opinion Consistency for No-reference Image Quality Assessment[J]. arXiv preprint arXiv:2401.10511, 2024.
+
 - Wang J, **Chen Z**, Yuan C, et al. Hierarchical Curriculum Learning for No-Reference Image Quality Assessment[J]. International Journal of Computer Vision, 2023: 1-20. **(共同一作)**
 
 - **Chen Z**, Wang J, Li B, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
@@ -42,8 +46,8 @@ author_profile: true
 
 |起止时间|项目名称|所获成就|
 |  ----  | ----  | ----  |
-|2021年6月-至今|基于AI的黑盒ISP超参数优化|1.[发表ACCV(CCF-C)类学术会议论文一篇](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html)<br>2.[发表IJCV(CCF-A)类学术期刊论文一篇](https://link.springer.com/article/10.1007/s11263-023-01851-5)|
-|2020年9月-2021年6月|基于深度学习的COVID-19肺部感染图像分割|1.[终期**国家级**大创项目](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_Certificate.pdf)<br>2.[软件著作权一篇](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_Software_Copyright.pdf)<br>3.[北京交通大学“挑战杯”大学生课外学术科技作品竞赛一等奖](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_BJTU_Certificate.pdf)<br>4.[发表TCE(CCF-B)类学术会议论文一篇](https://ieeexplore.ieee.org/abstract/document/9882382)|
+|2021年6月-至今|基于AI的黑盒ISP超参数优化|1.[发表ACCV(CCF-C)会议论文一篇](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html)<br>2.[发表IJCV(CCF-A)期刊论文一篇](https://link.springer.com/article/10.1007/s11263-023-01851-5)|
+|2020年9月-2021年6月|基于深度学习的COVID-19肺部感染图像分割|1.[终期**国家级**大创项目](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_Certificate.pdf)<br>2.[软件著作权一篇](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_Software_Copyright.pdf)<br>3.[北京交通大学“挑战杯”大学生课外学术科技作品竞赛一等奖](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_COVID-19_Segmentation/2021_Covid19_BJTU_Certificate.pdf)<br>4.[发表TCE(CCF-B)会议论文一篇](https://ieeexplore.ieee.org/abstract/document/9882382)|
 |2020年9月-2021年6月|基于无线通信技术和单片机的自动加湿器|1.[终期**北京市**大创项目](https://zwchen.oss-cn-beijing.aliyuncs.com/sources/achievement/2021_Humidifier/2021_Humidifier_Certificate.pdf)<br>|
 
 <!-- # 获奖经历
