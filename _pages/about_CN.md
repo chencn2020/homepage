@@ -34,13 +34,13 @@ author_profile: true
 
 # 📑 学术成果
 
-- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;"> ECCV 2024</span> PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts </p> <span style="font-weight: bold;"> 🧑‍🎓 Chen Zewen</span>, Qin Haina, Wang Juan, Yuan Chunfeng, Li Bing, Hu Weiming, et al.
+- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;color: white;"> ECCV 2024</span> PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts </p> <span style="font-weight: bold;"> 🧑‍🎓 Chen Zewen</span>, Qin Haina, Wang Juan, Yuan Chunfeng, Li Bing, Hu Weiming, et al.
 
-- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;"> Arxiv</span>  GMC-IQA: Exploiting Global-correlation and Mean-opinion Consistency for No-reference Image Quality Assessment</p> <span style="font-weight: bold;"> 🧑‍🎓 Chen Zewen</span>, Wang Juan, Li Bing, Yuan Chunfeng, Hu Weiming, et al.
+- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;color: white;"> Arxiv</span>  GMC-IQA: Exploiting Global-correlation and Mean-opinion Consistency for No-reference Image Quality Assessment</p> <span style="font-weight: bold;"> 🧑‍🎓 Chen Zewen</span>, Wang Juan, Li Bing, Yuan Chunfeng, Hu Weiming, et al.
 
-- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;">IJCV</span>  Hierarchical Curriculum Learning for No-Reference Image Quality Assessment</p>  🧑‍🎓 Wang Juan, <span style="font-weight: bold;"> Chen Zewen</span>, Yuan Chunfeng, Li Bing, Hu Weiming, et al. <span style="font-weight: bold;"> (Co-first author)</span>
+- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;color: white;">IJCV</span>  Hierarchical Curriculum Learning for No-Reference Image Quality Assessment</p>  🧑‍🎓 Wang Juan, <span style="font-weight: bold;"> Chen Zewen</span>, Yuan Chunfeng, Li Bing, Hu Weiming, et al. <span style="font-weight: bold;"> (Co-first author)</span>
 
-- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;">ACCV 2022</span>  Teacher-Guided Learning for Blind Image Quality Assessment</p> 🧑‍🎓  <span style="font-weight: bold;"> Chen Zewen</span>, Wang Juan,  Li Bing, Yuan Chunfeng, Hu Weiming, et al.
+- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;color: white;">ACCV 2022</span>  Teacher-Guided Learning for Blind Image Quality Assessment</p> 🧑‍🎓  <span style="font-weight: bold;"> Chen Zewen</span>, Wang Juan,  Li Bing, Yuan Chunfeng, Hu Weiming, et al.
 
 详情可见[Publications](/publications/)
 
