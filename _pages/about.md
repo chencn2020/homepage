@@ -20,34 +20,36 @@ My research interests include:
 - Self-supervised Learning
 
 Email: [chenzewen2022@ia.ac.cn](mailto:chenzewen2022@ia.ac.cn)
-# Education
+# 🎓 Education
 
-- **Master**: Institute of Automation, Chinese Academy of Sciences. (2022.9-Present)
+- **PhD**: Institute of Automation, Chinese Academy of Sciences. (2022.9-Present)
 - **Bachelor**: Beijing Jiaotong University (2018.9-2022.6)
 
-# News
+# 🔥 News
 
-- 08/2023, we won the **second prize** in the "AIGC Inference Performance Optimisation Track" held by Baidu.
+- 🎉 07/2024:  our work "PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts" was accepted by The 18th European Conference on Computer Vision  ([ECCV 2024]()).
 
-- 07/2023, our work "Hierarchical Curriculum Learning for No-reference Image Quality Assessment" was accepted by International Journal of Computer Vision ([IJCV](https://link.springer.com/article/10.1007/s11263-023-01851-5)).
+- 🎉 08/2023: we won the **second prize** in the "AIGC Inference Performance Optimisation Track" held by Baidu.
 
-- 09/2022, our work "Teacher-Guided Learning for Blind Image Quality Assessment" was accepted by The 16th Asian Conference on Computer Vision ([ACCV 2022](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html)).
+- 🎉 07/2023: our work "Hierarchical Curriculum Learning for No-reference Image Quality Assessment" was accepted by International Journal of Computer Vision ([IJCV](https://link.springer.com/article/10.1007/s11263-023-01851-5)).
 
-# Publications
+- 🎉 09/2022: our work "Teacher-Guided Learning for Blind Image Quality Assessment" was accepted by The 16th Asian Conference on Computer Vision ([ACCV 2022](https://openaccess.thecvf.com/content/ACCV2022/html/Chen_Teacher-Guided_Learning_for_Blind_Image_Quality_Assessment_ACCV_2022_paper.html)).
 
-- **Chen Z**, Qin H, Wang J, et al. PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts[J]. arXiv preprint arXiv:2403.04993, 2024.
+# 📑 Publications
 
-- **Chen Z**, Wang J, Li B, et al. GMC-IQA: Exploiting Global-correlation and Mean-opinion Consistency for No-reference Image Quality Assessment[J]. arXiv preprint arXiv:2401.10511, 2024.
+- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;"> ECCV 2024</span> PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts </p> <span style="font-weight: bold;"> 🧑‍🎓 Chen Zewen</span>, Qin Haina, Wang Juan, Yuan Chunfeng, Li Bing, Hu Weiming, et al.
 
-- Wang J, **Chen Z**, Yuan C, et al. Hierarchical Curriculum Learning for No-Reference Image Quality Assessment[J]. International Journal of Computer Vision, 2023: 1-20. **(Co-first author)**
+- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;"> Arxiv</span>  GMC-IQA: Exploiting Global-correlation and Mean-opinion Consistency for No-reference Image Quality Assessment</p> <span style="font-weight: bold;"> 🧑‍🎓 Chen Zewen</span>, Wang Juan, Li Bing, Yuan Chunfeng, Hu Weiming, et al.
 
-- **Chen Z**, Wang J, Li B, et al. Teacher-Guided Learning for Blind Image Quality Assessment[C]//Proceedings of the Asian Conference on Computer Vision. 2022: 2457-2474.
+- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;">IJCV</span>  Hierarchical Curriculum Learning for No-Reference Image Quality Assessment</p>  🧑‍🎓 Wang Juan, <span style="font-weight: bold;"> Chen Zewen</span>, Yuan Chunfeng, Li Bing, Hu Weiming, et al. <span style="font-weight: bold;"> (Co-first author)</span>
+
+- <p><span style="background-color: rgb(12, 31, 133); padding: 5px 10px;  border-radius: 10px; font-weight: bold;">ACCV 2022</span>  Teacher-Guided Learning for Blind Image Quality Assessment</p> 🧑‍🎓  <span style="font-weight: bold;"> Chen Zewen</span>, Wang Juan,  Li Bing, Yuan Chunfeng, Hu Weiming, et al.
 
 
 Please refer to [Publications](/publications/) for details.
 
 
-# Project Achievements
+# 🏆 Project Achievements
 
 |Duration|Project Name|Achievements|
 |  ----  | ----  | ----  |
