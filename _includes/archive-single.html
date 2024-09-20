@@ -43,6 +43,10 @@
         <span><a href="{{arxiv}}" target="_blank">Arxiv</a> &nbsp;</span>
         {% endif %}
 
+        {% if post.onlineDemo %}
+        <span><a href="{{onlineDemo}}" target="_blank">Online Demo</a> &nbsp;</span>
+        {% endif %}
+
         <br> 
         <div style="margin-top: 5px;">Date: {{paperdate}}</div>
       </td>

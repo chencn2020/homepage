@@ -8,6 +8,7 @@ venue: 'The 18th European Conference on Computer Vision (ECCV 2024)'
 # paperurl: 'https://link.springer.com/article/10.1007/s11263-023-01851-5'
 citation: '<b>Chen Z</b>, Qin H, Wang J, et al. PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts[J]. arXiv preprint 	arXiv:2403.04993, 2024.'
 codeurl: 'https://github.com/chencn2020/PromptIQA'
+onlineDemo: 'https://huggingface.co/spaces/Zevin2023/PromptIQA'
 paperdate: 03/2024
 paperYear: 2024
 framework: 'https://chencn2020.github.io/images/paper/PromptIQA.png'
