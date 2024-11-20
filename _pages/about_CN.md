@@ -36,6 +36,8 @@ author_profile: true
 
 # 📑 学术成果
 
+- <p><span style="background-color: rgb(12, 31, 133); padding: 3px 3px;  border-radius: 8px; font-weight: bold;color: white;"> Arxiv</span> SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning  <br> <span style="font-weight: bold;"> 🧑‍🎓 Chen Zewen</span>, Wang Juan, Wang wen, et al. </p>
+
 - <p><span style="background-color: rgb(12, 31, 133); padding: 3px 3px;  border-radius: 8px; font-weight: bold;color: white;"> ECCVW 2024</span> MobileIQA: Exploiting Mobile-level Diverse Opinion Network For No-Reference Image Quality Assessment Using Knowledge Distillation  <br> <span style="font-weight: bold;"> 🧑‍🎓 Chen Zewen</span>, Xu Sunhan, Zeng Yun, Guo Haochen, et al. </p>
 
 - <p><span style="background-color: rgb(12, 31, 133); padding: 3px 3px;  border-radius: 8px; font-weight: bold;color: white;"> ECCV 2024</span> PromptIQA: Boosting the Performance and Generalization for No-Reference Image Quality Assessment via Prompts  <br> <span style="font-weight: bold;"> 🧑‍🎓 Chen Zewen</span>, Qin Haina, Wang Juan, Yuan Chunfeng, Li Bing, Hu Weiming, et al. </p>
