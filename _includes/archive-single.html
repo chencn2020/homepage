@@ -21,7 +21,6 @@
 {% assign arxiv = post.arxiv %}
 {% assign onlineDemo = post.onlineDemo %}
 {% assign fast_read = post.fast_read %}
-{% assign dataset = post.dataset %}
 
 <table style="border-collapse: separate; border: none;">
   <tbody>
@@ -47,10 +46,6 @@
 
         {% if post.onlineDemo %}
         <span><a href="{{onlineDemo}}" target="_blank">Online Demo</a> &nbsp;</span>
-        {% endif %}
-
-        {% if post.dataset %}
-        <span><a href="{{dataset}}" target="_blank">Dataset</a> &nbsp;</span>
         {% endif %}
 
         <br> 
