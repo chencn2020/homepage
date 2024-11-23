@@ -11,4 +11,3 @@ You can access the web by https://chencn2020.github.io/ or https://zwchen.top or
 # Thanks
 
 Thanks to Rayeren. I reference most of the design of his [GitHub homepage](https://rayeren.github.io/).
-
