@@ -1,7 +1,7 @@
 
 <div class='paper-box'>
 <div class='paper-box-image-text'>
-<div class='paper-box-image'><div><div class="badge">ACCV 2022</div><img src='images/publications/TeacherIQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">ACCV 2022</div><img src='images/publications/teacherIQA.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 <div style="margin-bottom: 5px; font-size:1.2em">
